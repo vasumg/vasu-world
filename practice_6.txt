@@ -1,0 +1,2 @@
+git pull and git fetch are more or less.
+git pull is the combination of
