@@ -1,1 +1,3 @@
-From new branch
+From new branch.
+
+Modified again in firstbranch.
